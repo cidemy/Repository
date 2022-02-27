@@ -10,4 +10,12 @@ namespace WorkSpace
             Console.ReadLine();
         }
     }
+    public class People
+    {
+        public string Name { get; set; }
+        public string SurName { get; set; }
+        public int BirthDate { get; set; }
+        public long TcNumber { get; set; }
+
+    }
 }
