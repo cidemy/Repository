@@ -60,8 +60,12 @@ namespace MernisServiceReference
         public TCKimlikNoDogrulaRequestBody()
         {
         }
-        
-        public TCKimlikNoDogrulaRequestBody(long TCKimlikNo, string Ad, string Soyad, int DogumYili)
+
+        public TCKimlikNoDogrulaRequestBody(long nationalIdentity, string firstName, string lastName, int dateOfBirthYear)
+        {
+        }
+
+        public TCKimlikNoDogrulaRequestBody(long TCKimlikNo, object tCKimlikNo, string Ad, string Soyad, int DogumYili)
         {
             this.TCKimlikNo = TCKimlikNo;
             this.Ad = Ad;

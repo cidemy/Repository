@@ -10,5 +10,10 @@ namespace Entities.Concrete
         public string LastName { get; set; }
         public long NationalIdentity {get;set;}  
         public int DateOfBirthYear { get; set; }
+
+       
+        
     }
+  
+
 }

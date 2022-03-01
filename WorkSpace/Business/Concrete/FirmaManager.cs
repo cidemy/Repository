@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Business.Concrete
 {
-    public class FirmaManager
+    public class FirmaManager : ISupplierService
     {
         private IApplicantService _applicantService;
 
@@ -23,6 +23,11 @@ namespace Business.Concrete
             {
                 Console.WriteLine(person.FirstName+""+person.LastName+"geçerli bir vatandaş bilgisine sahiptir!");
             }
+            else
+            {
+                Console.WriteLine(person.FirstName + "" + person.LastName + "geçerli bir vatandaş bilgisine sahip değildir!");
+            }
         } 
+
     }
 }
