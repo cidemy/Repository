@@ -1,0 +1,14 @@
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\bin\Debug\netcoreapp3.1\Application2.exe
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\bin\Debug\netcoreapp3.1\Application2.deps.json
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\bin\Debug\netcoreapp3.1\Application2.runtimeconfig.json
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\bin\Debug\netcoreapp3.1\Application2.runtimeconfig.dev.json
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\bin\Debug\netcoreapp3.1\Application2.dll
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\bin\Debug\netcoreapp3.1\Application2.pdb
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\obj\Debug\netcoreapp3.1\Application2.csproj.AssemblyReference.cache
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\obj\Debug\netcoreapp3.1\Application2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\obj\Debug\netcoreapp3.1\Application2.AssemblyInfoInputs.cache
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\obj\Debug\netcoreapp3.1\Application2.AssemblyInfo.cs
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\obj\Debug\netcoreapp3.1\Application2.csproj.CoreCompileInputs.cache
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\obj\Debug\netcoreapp3.1\Application2.dll
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\obj\Debug\netcoreapp3.1\Application2.pdb
+C:\Users\mhmt\Documents\GitHub\repository\repository1-solution\Application2\obj\Debug\netcoreapp3.1\Application2.genruntimeconfig.cache

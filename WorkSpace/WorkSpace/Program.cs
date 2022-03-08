@@ -73,7 +73,7 @@ namespace WorkSpace
             int DateOfBirthYear = Convert.ToInt32(Console.ReadLine());
 
             Person person1 = new Person();
-            person1.FirstName = FirstName;
+            person1.FirstName = FirstName; ;
             person1.LastName = LastName;
             person1.NationalIdentity = NationalIdentity;
             person1.DateOfBirthYear = DateOfBirthYear;
@@ -84,10 +84,6 @@ namespace WorkSpace
             //person1.LastName = "SOYSAL";
             //person1.NationalIdentity = 123456;
             //person1.DateOfBirthYear = 1980;
-
-
-            Person person2 = new Person();
-            person2.FirstName = "Mehmet";
 
 
             FirmaManager firmaManager = new FirmaManager(new PersonManager());
