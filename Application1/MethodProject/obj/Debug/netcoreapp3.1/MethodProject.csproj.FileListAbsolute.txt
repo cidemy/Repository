@@ -1,0 +1,14 @@
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\bin\Debug\netcoreapp3.1\MethodProject.exe
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\bin\Debug\netcoreapp3.1\MethodProject.deps.json
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\bin\Debug\netcoreapp3.1\MethodProject.runtimeconfig.json
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\bin\Debug\netcoreapp3.1\MethodProject.runtimeconfig.dev.json
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\bin\Debug\netcoreapp3.1\MethodProject.dll
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\bin\Debug\netcoreapp3.1\MethodProject.pdb
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\obj\Debug\netcoreapp3.1\MethodProject.csproj.AssemblyReference.cache
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\obj\Debug\netcoreapp3.1\MethodProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\obj\Debug\netcoreapp3.1\MethodProject.AssemblyInfoInputs.cache
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\obj\Debug\netcoreapp3.1\MethodProject.AssemblyInfo.cs
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\obj\Debug\netcoreapp3.1\MethodProject.csproj.CoreCompileInputs.cache
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\obj\Debug\netcoreapp3.1\MethodProject.dll
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\obj\Debug\netcoreapp3.1\MethodProject.pdb
+C:\Users\mhmt\Documents\GitHub\repository\Application1\MethodProject\obj\Debug\netcoreapp3.1\MethodProject.genruntimeconfig.cache
