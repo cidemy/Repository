@@ -23,8 +23,18 @@ namespace MethodProject
 
             Product[] products=new Product[] { urun1, urun2 };
 
-          
+            foreach (var urun in products)
+            {
+                Console.WriteLine(urun.ProductName);
+                Console.WriteLine(urun.ProductPrice);
+                Console.WriteLine(urun.ProductDescription);
+                Console.WriteLine("-----------------");
+            }
 
+            CartManager Cart = new CartManager();
+            Cart.Insert(urun1);
+
+            Cart.UrunEkle("makarna", "spagetti",5);
         }
     }
 }

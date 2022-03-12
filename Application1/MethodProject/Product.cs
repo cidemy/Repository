@@ -10,5 +10,6 @@ namespace MethodProject
         public string ProductName { get; set; }
         public double ProductPrice { get; set; }
         public string ProductDescription { get; set; }
+      
     }
 }
